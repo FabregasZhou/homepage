@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://FabregasZhou.github.io/homepage
+url: https://fabregaszhou.github.io/homepage
 date_format: "ordinal"
 title: 呆瓜日志
 subtitle: "一个没事码代码的IC工程师"
